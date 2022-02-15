@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: MTABLE(1)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-fall-2002/b71224a4aaa7732c8f86e9613c4e5a9f_mtable.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-fall-2002/b71224a4aaa7732c8f86e9613c4e5a9f_mtable.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: mtable.pdf
 uid: b71224a4-aaa7-732c-8f86-e9613c4e5a9f
