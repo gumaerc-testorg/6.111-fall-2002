@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 62be00cb-c2a3-5c27-f3f2-4c87c1989224
 resourcetype: Document
 title: palprogramming.pdf
 uid: 8c1da0e7-2cfb-e1b4-78d4-690a758ba0b7

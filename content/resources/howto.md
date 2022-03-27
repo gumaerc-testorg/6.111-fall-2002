@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 79978b96-ff36-8ab1-a94c-ca076a401ee1
 resourcetype: Document
 title: howto.pdf
 uid: bef53911-6d7a-ad1f-1813-569f9e7a86ab

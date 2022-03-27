@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 62be00cb-c2a3-5c27-f3f2-4c87c1989224
 resourcetype: Document
 title: nova.pdf
 uid: 1d4e5047-1365-c573-f6c7-eb1e0cd3939f

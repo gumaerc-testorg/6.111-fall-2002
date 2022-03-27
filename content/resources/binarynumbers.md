@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 45d6b047-b667-a22d-8043-614121d83017
 resourcetype: Document
 title: binarynumbers.pdf
 uid: 535f3a9e-fcd5-03c6-ef7f-33a51683b7c7

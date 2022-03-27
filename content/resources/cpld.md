@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 62be00cb-c2a3-5c27-f3f2-4c87c1989224
 resourcetype: Document
 title: cpld.pdf
 uid: 33973ec6-df60-7151-5535-0aaf46542bf8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 62be00cb-c2a3-5c27-f3f2-4c87c1989224
 resourcetype: Other
 title: old-mystery-files.zip
 uid: bb371383-3747-1d3f-94f3-756e9d0f8149

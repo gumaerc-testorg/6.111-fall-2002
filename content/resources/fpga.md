@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 62be00cb-c2a3-5c27-f3f2-4c87c1989224
 resourcetype: Document
 title: fpga.pdf
 uid: 379b6dd6-3c39-a76f-4f9a-2b76d1f141c2

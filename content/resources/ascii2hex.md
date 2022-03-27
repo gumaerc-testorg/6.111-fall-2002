@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 62be00cb-c2a3-5c27-f3f2-4c87c1989224
 resourcetype: Document
 title: ascii2hex.pdf
 uid: 94908898-ae37-2b0a-b2ff-e34f8578d88d

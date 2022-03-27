@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 45d6b047-b667-a22d-8043-614121d83017
 resourcetype: Document
 title: vhdlbooks.pdf
 uid: 601cbf08-e779-dff9-2557-0fdd0134e801
