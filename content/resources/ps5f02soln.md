@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 5 Solutions
-file: /media/courses/6-111-introductory-digital-systems-laboratory-fall-2002/3157f46e4d5ebd1f73da690e2494cd4e_ps5f02soln.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/3157f46e4d5ebd1f73da690e2494cd4e_ps5f02soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ps5f02soln.pdf
 uid: 3157f46e-4d5e-bd1f-73da-690e2494cd4e
 ---
+Problem Set 5 Solutions
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-111-introductory-digital-systems-laboratory-fall-2002/bb37138337471d3f94f3756e9d0f8149_old-mystery-files.zip
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/bb37138337471d3f94f3756e9d0f8149_old-mystery-files.zip
 file_type: application/zip
 learning_resource_types:
 - Tools

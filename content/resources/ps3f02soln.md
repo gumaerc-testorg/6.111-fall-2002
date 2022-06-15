@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 3 Solutions
-file: /media/courses/6-111-introductory-digital-systems-laboratory-fall-2002/7e3fb00adf69faea4a8630095db0b2ff_ps3f02soln.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/7e3fb00adf69faea4a8630095db0b2ff_ps3f02soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ps3f02soln.pdf
 uid: 7e3fb00a-df69-faea-4a86-30095db0b2ff
 ---
+Problem Set 3 Solutions
+

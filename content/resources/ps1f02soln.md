@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 1 Solutions
-file: /media/courses/6-111-introductory-digital-systems-laboratory-fall-2002/65532b32224fea0f8e2fcb9d3b7be51f_ps1f02soln.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/65532b32224fea0f8e2fcb9d3b7be51f_ps1f02soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ps1f02soln.pdf
 uid: 65532b32-224f-ea0f-8e2f-cb9d3b7be51f
 ---
+Problem Set 1 Solutions
+
