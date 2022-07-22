@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/94908898a
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ascii2hex.pdf
 uid: 94908898-ae37-2b0a-b2ff-e34f8578d88d
 ---
 ASCII2HEX(1)
-

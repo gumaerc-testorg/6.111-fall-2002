@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/01a23b516
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reportgd.pdf
 uid: 01a23b51-6846-1cf1-0097-bb1b63916900
 ---
 Labs: Report Guide
-

@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/b450d7f97
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: emacsvhdl.pdf
 uid: b450d7f9-77eb-dfd4-ce32-0f99edd0b910
 ---
 Electric VHDL Mode: Major mode for editing VHDL code
-

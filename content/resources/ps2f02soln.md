@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/19ca6fc96
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2f02soln.pdf
 uid: 19ca6fc9-6b3a-4105-49b5-6919227422c2
 ---
 Problem Set 2 Solutions
-

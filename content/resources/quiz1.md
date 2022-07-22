@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/6d3ab6467
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1.pdf
 uid: 6d3ab646-7f7a-1d5a-54fe-c7d9e7340974
 ---
 Assignments: Quiz 1
-

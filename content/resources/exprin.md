@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/3ab5e12ff
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exprin.pdf
 uid: 3ab5e12f-f08f-94ff-c34c-769e720c0a26
 ---
 EXPRIN(1)
-

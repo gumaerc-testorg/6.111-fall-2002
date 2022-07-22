@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/bef539116
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: howto.pdf
 uid: bef53911-6d7a-ad1f-1813-569f9e7a86ab
 ---
 Projects: How to Make Your 6.111 Project Work
-

@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/22e42d613
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hplogic.pdf
 uid: 22e42d61-34d9-3e5b-87ac-c83bec5c7215
 ---
 Brief introduction to the HP Logic Analyzer
-

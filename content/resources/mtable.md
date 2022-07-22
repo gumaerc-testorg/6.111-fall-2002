@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/b71224a4a
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mtable.pdf
 uid: b71224a4-aaa7-732c-8f86-e9613c4e5a9f
 ---
 MTABLE(1)
-

@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/e8293a9e9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reportgd.pdf
 uid: e8293a9e-9e73-7e0c-6bd9-b3a0ab1363ba
 ---
 Projects: Report Guide
-

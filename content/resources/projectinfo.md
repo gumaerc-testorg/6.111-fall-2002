@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/f3f245fb5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: projectinfo.pdf
 uid: f3f245fb-5805-5e04-c53e-1cf632bdcef7
 ---
 Projects: Project Information
-

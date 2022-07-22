@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/40265c33f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1.pdf
 uid: 40265c33-f3ed-da67-3bc2-439a01fb383f
 ---
 Labs: Logic Analyzer, digital oscilloscopes, and PALS
-
