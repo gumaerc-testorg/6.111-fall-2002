@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The calendar provides the schedule of lectures, assignments, and handouts
+  for the course. After the second quiz, the lectures and recitations are discontinued.
+  The remainder of the sessions involve labs and project presentations by students
+  in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e95416ec-d871-2bf1-4806-78f2db4afe4c
 ---

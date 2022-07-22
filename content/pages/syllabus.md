@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains the course's objectives, expected learning outcomes,
+  required readings, structure, and policies and guidelines for students.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9dbd1f36-985b-7b1d-6f6e-844696f68530
 ---
