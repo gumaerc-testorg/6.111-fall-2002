@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: Quiz 1 Solution'
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/6801323d4a1b44e8f164ad6210753a24_quiz1sols.pdf
+file_size: 153185
 file_type: application/pdf
 learning_resource_types:
 - Exams

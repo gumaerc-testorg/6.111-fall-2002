@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 3 Solutions
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/7e3fb00adf69faea4a8630095db0b2ff_ps3f02soln.pdf
+file_size: 116993
 file_type: application/pdf
 learning_resource_types:
 - Assignments
