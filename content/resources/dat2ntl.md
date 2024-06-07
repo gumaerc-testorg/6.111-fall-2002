@@ -2,6 +2,7 @@
 content_type: resource
 description: DAT2NTL(1)
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/f8680d7cccd49cf10b028207965aadf2_dat2ntl.pdf
+file_size: 55038
 file_type: application/pdf
 learning_resource_types:
 - Tools

@@ -2,6 +2,7 @@
 content_type: resource
 description: PROM(1)
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/9b64d5b21c74efcb87d6a7ee96a8854d_prom.pdf
+file_size: 27495
 file_type: application/pdf
 learning_resource_types:
 - Tools
