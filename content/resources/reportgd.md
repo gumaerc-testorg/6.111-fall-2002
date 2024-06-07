@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Labs: Report Guide'
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/01a23b5168461cf10097bb1b63916900_reportgd.pdf
+file_size: 176386
 file_type: application/pdf
 learning_resource_types:
 - Labs

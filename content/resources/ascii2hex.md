@@ -2,6 +2,7 @@
 content_type: resource
 description: ASCII2HEX(1)
 file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/94908898ae372b0ab2ffe34f8578d88d_ascii2hex.pdf
+file_size: 23344
 file_type: application/pdf
 learning_resource_types:
 - Tools
