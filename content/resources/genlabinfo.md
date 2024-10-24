@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Labs: General Laboratory Information'
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/fee0bae5f6eae21ea8ba06b8b717d98d_genlabinfo.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/fee0bae5f6eae21ea8ba06b8b717d98d_genlabinfo.pdf
 file_size: 74656
 file_type: application/pdf
 learning_resource_types:
