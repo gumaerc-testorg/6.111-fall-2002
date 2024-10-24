@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: Quiz 2 Solution'
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/2f9ecca34c1597014db8699b7e297105_quiz2sols.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/2f9ecca34c1597014db8699b7e297105_quiz2sols.pdf
 file_size: 353069
 file_type: application/pdf
 learning_resource_types:

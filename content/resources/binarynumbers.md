@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Study Materials: Binary Numbers'
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/535f3a9efcd503c6ef7f33a51683b7c7_binarynumbers.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/535f3a9efcd503c6ef7f33a51683b7c7_binarynumbers.pdf
 file_size: 82648
 file_type: application/pdf
 learning_resource_types: []
