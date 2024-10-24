@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: PAL Programming
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/8c1da0e72cfbe1b478d4690a758ba0b7_palprogramming.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/8c1da0e72cfbe1b478d4690a758ba0b7_palprogramming.pdf
 file_size: 67764
 file_type: application/pdf
 learning_resource_types:

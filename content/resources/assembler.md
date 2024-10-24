@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ASSEMBLER(1)
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/99b3fd506e87b1c8fafe2cbcb9d68190_assembler.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/99b3fd506e87b1c8fafe2cbcb9d68190_assembler.pdf
 file_size: 119841
 file_type: application/pdf
 learning_resource_types:
