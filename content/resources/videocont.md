@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Using the MC6847 Video Controller
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/675f3cedecc22182d75dddeeda129c84_videocont.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/675f3cedecc22182d75dddeeda129c84_videocont.pdf
 file_size: 103940
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: Quiz 1'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/6d3ab6467f7a1d5a54fec7d9e7340974_quiz1.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/6d3ab6467f7a1d5a54fec7d9e7340974_quiz1.pdf
 file_size: 129207
 file_type: application/pdf
 learning_resource_types:

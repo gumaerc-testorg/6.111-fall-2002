@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Projects: Project Suggestions'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/49600c52e545585aaeb57b88fb22a9f4_projectsuggestions.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/49600c52e545585aaeb57b88fb22a9f4_projectsuggestions.pdf
 file_size: 137886
 file_type: application/pdf
 learning_resource_types:
