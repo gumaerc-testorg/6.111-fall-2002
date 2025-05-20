@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/f972f54d6db2a70cd39e2bd183fc5471_adaptiveproc.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/f972f54d6db2a70cd39e2bd183fc5471_adaptiveproc.pdf
 file_size: 522503
 file_type: application/pdf
 learning_resource_types:

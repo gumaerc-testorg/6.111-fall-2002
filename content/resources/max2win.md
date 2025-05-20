@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Max2win instructions
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/e03d10cf5641f7664d322f500c4a201e_max2win.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/e03d10cf5641f7664d322f500c4a201e_max2win.pdf
 file_size: 52096
 file_type: application/pdf
 learning_resource_types:
