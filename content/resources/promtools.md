@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: PROM Programming Tools - An Overview
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/6bceb38f4196ff5e672296c8827347e1_promtools.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/6bceb38f4196ff5e672296c8827347e1_promtools.pdf
 file_size: 80007
 file_type: application/pdf
 learning_resource_types:

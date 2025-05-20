@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: EXPRIN(1)
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/3ab5e12ff08f94ffc34c769e720c0a26_exprin.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/3ab5e12ff08f94ffc34c769e720c0a26_exprin.pdf
 file_size: 40987
 file_type: application/pdf
 learning_resource_types:

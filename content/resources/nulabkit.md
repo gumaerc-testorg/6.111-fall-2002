@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Labs: NUBUS LABORATORY KIT'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/fffcf1030312b970d8b66d801430523e_nulabkit.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/fffcf1030312b970d8b66d801430523e_nulabkit.pdf
 file_size: 146584
 file_type: application/pdf
 learning_resource_types:

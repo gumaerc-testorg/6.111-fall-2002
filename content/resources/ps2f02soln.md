@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 2 Solutions
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/19ca6fc96b3a410549b56919227422c2_ps2f02soln.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/19ca6fc96b3a410549b56919227422c2_ps2f02soln.pdf
 file_size: 162397
 file_type: application/pdf
 learning_resource_types:
