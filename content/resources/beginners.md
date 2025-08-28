@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A beginner's guide to WARP
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/107c86155af744430ddfc765b259adbd_beginners.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/107c86155af744430ddfc765b259adbd_beginners.pdf
 file_size: 92551
 file_type: application/pdf
 learning_resource_types:

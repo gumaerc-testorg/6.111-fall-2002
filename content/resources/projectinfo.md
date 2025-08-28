@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Projects: Project Information'
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/f3f245fb58055e04c53e1cf632bdcef7_projectinfo.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/f3f245fb58055e04c53e1cf632bdcef7_projectinfo.pdf
 file_size: 102892
 file_type: application/pdf
 learning_resource_types:
