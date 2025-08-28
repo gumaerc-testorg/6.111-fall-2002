@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Brief introduction to the HP Logic Analyzer
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/22e42d6134d93e5b87acc83bec5c7215_hplogic.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/22e42d6134d93e5b87acc83bec5c7215_hplogic.pdf
 file_size: 68566
 file_type: application/pdf
 learning_resource_types:

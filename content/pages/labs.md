@@ -3,7 +3,7 @@ content_type: page
 description: This section provides the laboratory exercises, and supporting documentation,
   for the course. The labs are intended to prepare the students for the term project.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 3d8a8c14-5729-5077-272a-0a2639e52d20
