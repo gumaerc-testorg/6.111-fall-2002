@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MULPROM(1)
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/cdbfd2202dc86032531440635655fd66_mulprom.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/cdbfd2202dc86032531440635655fd66_mulprom.pdf
 file_size: 36544
 file_type: application/pdf
 learning_resource_types:

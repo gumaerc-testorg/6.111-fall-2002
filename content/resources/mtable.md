@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MTABLE(1)
-file: /courses/6-111-introductory-digital-systems-laboratory-fall-2002/b71224a4aaa7732c8f86e9613c4e5a9f_mtable.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-fall-2002/b71224a4aaa7732c8f86e9613c4e5a9f_mtable.pdf
 file_size: 20894
 file_type: application/pdf
 learning_resource_types:
